@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Pro Tracker
- * Plugin URI: https://github.com/ftepic/woocommerce-order-tracking
+ * Plugin URI: https://github.com/deveguru
  * Description: سیستم رهگیری سفارشات پیشرفته برای ووکامرس با قابلیت ایجاد متدهای مختلف نمایش اطلاعات
  * Version: 1.0.0
  * Author: Alireza Fatemi
- * Author URI: https://github.com/ftepic
+ * Author URI: https://alirezafatemi.ir
  * Text Domain: wc-order-tracking
  * Domain Path: /languages
  * Requires at least: 5.0
